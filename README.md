@@ -1,2 +1,10 @@
-# Inter_polation
-"Efficient matrix interpolation methods in Python for Digital Image Processing. Nearest-Neighbor, Bilinear, Bicubic, and more. Enhance image quality during resizing. Open-source. MIT License okay!
+# Interpolation Methods for Digital Image Processing in Python
+
+## Overview
+This Python library provides efficient matrix interpolation methods for Digital Image Processing. It includes popular interpolation techniques such as Nearest-Neighbor, Bilinear, Bicubic, and more. These methods are designed to enhance image quality during resizing operations.
+
+## Features
+- Nearest-Neighbor Interpolation
+- Bilinear Interpolation
+- Bicubic Interpolation
+
